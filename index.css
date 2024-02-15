@@ -300,7 +300,7 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../img/website.jpg);
+    background-image: url(img/website.jpg);
     background-size: cover;
     color: var(--clr-light);
     text-align: center;

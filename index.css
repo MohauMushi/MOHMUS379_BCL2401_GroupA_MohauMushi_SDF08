@@ -477,8 +477,9 @@ header {
     background: #C0D1A5;
     color: var(--clr-accent);
     text-align: center;
-    padding: 1em 0;
+    padding: 0.5em 0;
     font-size: var(--fs-h3);
+
 }
 
 .footer a { 
@@ -509,11 +510,11 @@ header {
 }
 
 .social-list__item {
-    margin: 0 .2em;
+    margin: 0.1em;
 }
 
 .social-list__link {
-    padding: .2em;
+    padding: .1em;
 }
 
 
